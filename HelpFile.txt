@@ -1,0 +1,9 @@
+Plan is to build the website using an Angular front-end and .netCore WebAPI back-end.
+
+Angular links:
+https://angular.io/
+
+
+
+WebAPI:
+https://www.asp.net/web-api
